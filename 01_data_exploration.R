@@ -1,0 +1,10 @@
+insurance<-read.csv("Data/Insurance claims data.csv")
+View(insurance)
+dim(insurance)
+names(insurance)
+str(insurance)
+summary(insurance)
+colSums(is.na(insurance))
+sum(duplicated(insurance$policy_id))
+table(insurance$claim_status)
+prop.table(table(insurance$claim_status)) * 100
