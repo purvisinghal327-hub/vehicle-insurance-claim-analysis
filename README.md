@@ -58,7 +58,7 @@ The dashboard presents key metrics and visual comparisons through five charts:
 
 Supporting worksheets provide the underlying KPI and segment-level summaries.
 
-![Vehicle Insurance Claim Analysis Dashboard](dashboard.png)
+![Vehicle Insurance Claim Analysis Dashboard](dashboard.png.png)
 
 ## Repository Contents
 
